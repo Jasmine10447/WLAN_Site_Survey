@@ -1,4 +1,4 @@
-<h1 align=center> 🌐 WLAN Site Survey & Wireless Network Analysis — ESOFT Metro Campus </h1>
+<h1 align=center> 🌐 WLAN Site Survey & Wireless Network Analysis <br> for ESOFT Metro Campus </h1>
 
 <p align="center">
   <strong>Wireless Network Assessment, Signal Coverage Analysis & Performance Improvement Recommendations</strong>
@@ -29,84 +29,163 @@
   <img src="https://img.shields.io/badge/Documentation-Technical%20Report-64748B" alt="Technical Documentation">
 </p>
 
-
----
-
 ## 📌 Project Overview
 
-This project presents a **Wireless LAN (WLAN) site survey and performance analysis** conducted at ESOFT Metro Campus, Colombo 04.
+This project presents a **Wireless Local Area Network (WLAN) site survey and performance analysis** conducted at ESOFT Metro Campus, located on de Fonseka Lane, Colombo 04, Sri Lanka.
 
-The survey investigates wireless network availability, signal strength, channel utilization, potential interference, and coverage conditions across selected floors of the campus building. Floor plans, survey observations, and wireless heatmaps are used to evaluate network performance and identify areas for improvement.
+The survey examines wireless network characteristics across selected floors of the campus building, focusing on signal strength, channel utilization, wireless coverage, potential interference, and access point placement.
 
-The project also provides recommendations for improving Wi-Fi coverage, access point placement, channel allocation, roaming, and overall wireless connectivity.
+Using wireless analysis utilities, floor plans, survey observations, and signal visualization techniques, the project identifies potential areas for improvement and proposes recommendations to enhance wireless network reliability and coverage.
 
----
+The project demonstrates practical knowledge of wireless networking, Wi-Fi analysis, site survey methodology, and network performance optimization.
 
 ## 🎯 Project Objectives
 
-- Assess wireless network coverage across selected campus floors.
-- Identify available access points, SSIDs, channels, and frequency bands.
-- Analyze received signal strength and potential interference.
-- Visualize wireless coverage using floor plans and heatmaps.
-- Identify weak-signal areas and potential coverage gaps.
-- Recommend improvements to wireless network performance and reliability.
+The main objectives of this project are to:
+
+- Conduct a WLAN site survey across selected campus floors.
+- Identify available wireless networks and their access point characteristics.
+- Examine Received Signal Strength Indicator (RSSI) values and signal attenuation.
+- Analyze channel utilization and potential co-channel or adjacent-channel interference.
+- Visualize wireless signal distribution using floor plans and heat maps.
+- Identify potential weak-signal areas and wireless coverage gaps.
+- Evaluate access point placement and roaming-related considerations.
+- Recommend improvements for wireless coverage, reliability, and performance.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🏢 Survey Environment
+
+The survey was conducted at **ESOFT Metro Campus**, a multi-storey educational building containing lecture halls, classrooms, administrative offices, staff facilities, and other functional areas.
+
+The survey covers the selected floors specified in the project report. The seventh and ninth floors were excluded from the survey scope.
+
+The assessment considers how physical surroundings, including walls, doors, furniture, and the distance between wireless devices and access points, can affect Wi-Fi signal propagation.
+
+---
+
+## 🗺️ Floor-by-Floor Survey
+
+The project organizes the wireless survey into individual floor assessments.
+
+| Survey Area | Main Assessment Activities |
+|---|---|
+| Ground Floor | Entrance, lobby, security area, and wireless coverage |
+| First Floor | Offices, staff facilities, and server room area |
+| Second Floor | Rooms, lobby, and departmental spaces |
+| Third Floor | Lecture halls, administration, and staff facilities |
+| Fourth Floor | Lecture halls, offices, and operational areas |
+| Fifth Floor | Lecture halls, staff rooms, and office facilities |
+| Sixth Floor | IT department, offices, and workspaces |
+| Eighth Floor | Rooms, studio, and associated workspaces |
+
+Each surveyed floor is documented through floor plans, wireless observations, data visualizations, and recommendations based on the reported findings.
+
+---
+
+## 🧰 Tools & Technologies
+
+The following tools were used in the survey and documentation process:
 
 | Tool | Purpose |
 |---|---|
-| Acrylic Wi-Fi Analyzer | Wireless network scanning and signal analysis |
-| Acrylic Wi-Fi HeatMap | Wi-Fi coverage visualization |
-| EDrawMax | Floor plan design |
-| Microsoft Excel | Survey data organization and analysis |
+| Acrylic Wi-Fi Analyzer | Discovering wireless networks and examining Wi-Fi characteristics |
+| Acrylic Wi-Fi HeatMap | Visualizing signal strength and wireless coverage |
+| EDrawMax | Preparing floor plans and spatial diagrams |
+| Microsoft Excel | Organizing survey observations and preparing data visualizations |
 
 ---
 
-## 🏢 Survey Coverage
+## 📊 Key Areas of Investigation
 
-The survey covers selected floors of the ESOFT Metro Campus building, including areas such as classrooms, offices, lobbies, and other shared facilities.
+### 📶 1. Signal Strength & Attenuation
 
-The assessment examines:
+The survey examines RSSI measurements across different locations to identify areas with stronger and weaker wireless reception.
 
-- 📡 Access point identification and configuration
-- 📶 Signal strength and attenuation
-- 📊 Channel occupancy and interference
-- 🗺️ Floor plans and wireless heatmaps
-- 🔄 Access point placement and roaming considerations
-- 💡 Recommendations for wireless network improvements
+Signal attenuation is considered in relation to access point distance, walls, furniture, and other physical obstructions.
 
----
+### 📡 2. Channel Utilization & Interference
 
-## 📈 Analysis & Recommendations
+Wireless channels in the 2.4 GHz and 5 GHz frequency bands are examined to identify potential congestion, overlapping channel use, and opportunities for better channel allocation.
 
-The report evaluates wireless network conditions across the surveyed floors and discusses potential challenges related to:
+### 🗺️ 3. Wireless Coverage & Heat Maps
 
-- Channel congestion and interference
-- Weak signal reception and physical obstructions
-- Wireless coverage gaps
-- Access point placement and roaming
-- Network speed and connection reliability
+Floor plans and heat maps help illustrate the distribution of wireless signal strength across the surveyed areas.
 
-Recommendations include optimizing channel allocation, improving access point placement, addressing weak-coverage areas, and considering appropriate wireless technology upgrades.
+These visualizations support the identification of potential coverage gaps and locations requiring further investigation.
 
-The detailed floor-by-floor observations, visualizations, analysis, and recommendations are available in the project report.
+### 🔄 4. Access Point Placement & Roaming
 
+The report considers access point positioning, overlapping coverage areas, and roaming-related improvements that may support more consistent wireless connectivity across floors.
+
+### ⚡ 5. Wireless Performance Optimization
+
+The findings are used to develop recommendations concerning channel planning, access point placement, coverage improvements, and wireless capacity.
 
 ---
 
-## 🔒 Copyright & Usage Policy
+## 🔍 Survey Methodology
 
-### © 2026 Yesmin Jalaldeen — All Rights Reserved.
+The survey followed a structured process:
 
-This repository showcases original project work prepared for educational and portfolio demonstration purposes.
+1. **Floor Plan Preparation** — Prepare floor layouts to represent the surveyed building areas.
+2. **Wireless Network Discovery** — Scan for available wireless networks using Acrylic Wi-Fi Analyzer.
+3. **Data Collection** — Record wireless network characteristics and observations at selected measurement locations.
+4. **Signal Visualization** — Use heat maps to visualize wireless signal distribution.
+5. **Data Organization** — Organize survey findings and prepare charts using Microsoft Excel.
+6. **Performance Analysis** — Examine signal strength, channel occupancy, potential interference, and coverage conditions.
+7. **Recommendations** — Identify potential network improvements based on the collected observations.
 
-The original survey documentation, floor plans, visualizations, analysis, and project-specific materials may not be reproduced, redistributed, modified, or presented as another person's work without prior written permission from the author, subject to applicable third-party rights.
+---
 
-**Public visibility of this repository does not grant permission to reuse the author's original work.**
+## 🛠️ Recommendations & Optimization Areas
 
-For permission to use or reproduce protected project materials, please contact the author.
+The report identifies several areas for potential improvement:
+
+- **Channel Planning:** Review channel allocation to reduce avoidable interference and congestion.
+- **Access Point Placement:** Evaluate access point locations to improve signal distribution.
+- **Coverage Improvement:** Investigate weak-signal areas and consider additional access points where justified.
+- **Frequency Band Utilization:** Evaluate the use of 5 GHz connectivity for compatible devices and suitable coverage conditions.
+- **Roaming Optimization:** Assess access point coordination and supported roaming features.
+- **Capacity Planning:** Review wireless network capacity in areas with high device density.
+- **Further Validation:** Conduct additional measurements to verify proposed changes and assess their effectiveness.
+
+These recommendations represent proposed improvements based on the survey analysis; they should not be interpreted as changes already deployed to the campus network.
+
+---
+
+## 📁 Repository Structure
+
+```text
+WLAN-Site-Survey-Project/
+│
+├── README.md
+├── LICENSE
+│
+├── Documentation/
+│   └── WLAN-Site-Survey-Report.pdf
+│
+├── Floor Plans/
+│   └── [Survey floor plans]
+│
+├── Heat Maps/
+│   └── [Wireless signal visualizations]
+│
+└── Data/
+    └── [Selected survey data and charts]
+```
+
+---
+
+## 🔒 Copyright & Usage
+
+This repository showcases original project materials prepared for educational and professional portfolio demonstration.
+
+The project report, original floor plans, survey visualizations, analysis, and other original materials are protected by the author's usage policy.
+
+Public access does not grant permission to reproduce, modify, redistribute, republish, or present the author's original work as another person's work without prior written permission.
+
+Please refer to the accompanying `LICENSE` file for the applicable usage restrictions.
 
 ---
 
@@ -118,6 +197,13 @@ For permission to use or reproduce protected project materials, please contact t
 
 **BIT (Hons) Specialized in Computer Networks**  
 **BCS HEQ PGD in Computer Networks**
+
+*“Analyzing Wireless Performance. Improving Connectivity.”*
+
+**© 2026 Yesmin Jalaldeen — All Rights Reserved.**
+
+</div>
+
 
 *“Analyzing Wireless Networks. Improving Connectivity.”*
 
