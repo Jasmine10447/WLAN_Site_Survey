@@ -203,10 +203,3 @@ Please refer to the accompanying `LICENSE` file for the applicable usage restric
 **© 2026 Yesmin Jalaldeen — All Rights Reserved.**
 
 </div>
-
-
-*“Analyzing Wireless Networks. Improving Connectivity.”*
-
-**© 2026 Yesmin Jalaldeen — All Rights Reserved.**
-
-</div>
