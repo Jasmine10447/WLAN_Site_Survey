@@ -159,22 +159,10 @@ These recommendations represent proposed improvements based on the survey analys
 ```text
 WLAN-Site-Survey-Project/
 │
-├── README.md
 ├── LICENSE
-│
-├── Documentation/
-│   └── WLAN-Site-Survey-Report.pdf
-│
-├── Floor Plans/
-│   └── [Survey floor plans]
-│
-├── Heat Maps/
-│   └── [Wireless signal visualizations]
-│
-└── Data/
-    └── [Selected survey data and charts]
+├── README.md
+└── Site-Survey-Report.pdf
 ```
-
 ---
 
 ## 🔒 Copyright & Usage
